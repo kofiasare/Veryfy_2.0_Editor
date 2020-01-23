@@ -1,4 +1,4 @@
-# Veryfy 2.0 Editr Core (Layered On Ckeditor)
+# Veryfy 2.0 Editor Core (Layered On Ckeditor)
 
 ![Veryfy 2.0 Editor Core](sample/editor.png)
 
