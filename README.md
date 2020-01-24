@@ -5,5 +5,5 @@
 First, install the build from github:
 
 ```bash
-npm install git+ssh://git@github.com/kofiasare/Veryfy_2.0_Editor.git#psynthax_master
+npm install git+https://git@github.com/kofiasare/Veryfy_2.0_Editor.git#psynthax_master
 ```
